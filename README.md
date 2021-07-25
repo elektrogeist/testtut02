@@ -1,5 +1,5 @@
 # testtut02
-For WebDevSimplified Tut
+For WD Sim Tut
 
 ---
 
